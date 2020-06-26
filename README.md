@@ -4,7 +4,8 @@ A simple command line application meant to run as a daemon process via launchd t
 
 ### System Requirements
 macOS Catalina or later
-Swift 5.3
+
+Xcode 12 or higher
 
 ### Use
 Edit the config.json file to change what applications you want to kill when your screen locks. Then run the following:
